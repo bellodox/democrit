@@ -33,3 +33,10 @@ Makefile.in
 *.pb.cc
 
 */rpc-stubs/*.h
+.~*
+*test*
+.understand-anything/
+.kilocode/
+docs/maintainer-wiki
+AGENTS.md
+CLAUDE.md
